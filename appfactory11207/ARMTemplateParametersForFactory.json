@@ -8,6 +8,9 @@
 		"datagrpdatalake1_service_accountKey": {
 			"value": ""
 		},
+		"dataworkspace2399_service_connectionString": {
+			"value": ""
+		},
 		"datagrpdatalake1_service_properties_typeProperties_url": {
 			"value": "https://datagrpdatalake1.dfs.core.windows.net/"
 		}
