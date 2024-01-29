@@ -230,7 +230,7 @@
 						"typeProperties": {
 							"method": "GET",
 							"headers": {},
-							"url": "https://datagrpdatalake1.blob.core.windows.net/container1/Log.csv"
+							"url": "https://datagrpdatalake1.blob.core.windows.net/container1/Customer01.csv"
 						}
 					}
 				],
